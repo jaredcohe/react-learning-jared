@@ -1,0 +1,9 @@
+npm init
+npm install --save gulp gulp-connect gulp-open
+npm install --save browserify reactify vinyl-source-stream
+npm install --save bootstrap jquery gulp-concat
+npm install --save react react-router flux react-dom
+gulp
+npm install --save lodash
+
+npm update // to update everything to current version, didnt have to run because I just installed the current versions
