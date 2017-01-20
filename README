@@ -7,3 +7,6 @@ gulp
 npm install --save lodash
 
 npm update // to update everything to current version, didnt have to run because I just installed the current versions
+
+TK
+https://app.pluralsight.com/player?course=react-flux-building-applications&author=cory-house&name=react-flux-building-applications-m4&clip=3&mode=live
